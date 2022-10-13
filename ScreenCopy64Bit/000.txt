@@ -1,0 +1,1 @@
+pathScreenCopy=C:\VS\CS\ScreenSnip100\ScreenSnip\bin\x64\Release\ScreenCopy\20221010
